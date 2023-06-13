@@ -2,7 +2,7 @@ version: "3.3"
 
 services:
   app:
-    container_name: shivam-z-mirror
+    container_name: shivam-telly-z-mirror
     build:
       context: .
       dockerfile: Dockerfile
