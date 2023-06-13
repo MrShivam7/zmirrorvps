@@ -10,4 +10,4 @@ services:
     restart: on-failure
     ports:
       - "20:20"
-      - "8080:8080"
+      - "2020:2020"
